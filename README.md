@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7hUnd3R007
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 👀 I’m a Full Stack Web Developer
+- 🌱 I’m Learning and Developing my Technological Knowledge everyday :)
 - 📫 reach me Through my Facebook Account
 
 <!---
